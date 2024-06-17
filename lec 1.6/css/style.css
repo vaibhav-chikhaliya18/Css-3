@@ -1,0 +1,71 @@
+*{
+	margin:0px;
+	box-sizing:border-box;
+}
+.container{
+	max-width:1140px;
+	margin:0 auto;
+}
+.card{
+	width:35%;
+	border-radius:10px;
+	background-color:lightgreen;
+	margin:100px auto;
+	border:10px RosyBrown groove;
+	display:inline-block;
+	font-family: 'Oswald';
+	
+}
+.card i{
+	padding:10px;
+}
+.card h1{
+	padding:5px;
+}
+.card1{
+	width:35%;
+	border-radius:10px;
+	background-color:khaki;
+	margin:100px auto;
+	border:10px SteelBlue outset;
+	display:inline-block;
+    font-family: 'DM Serif Display';
+	
+}
+.card1 i{
+	padding:10px;
+}
+.card1 h1{
+	padding:5px;
+}
+.card2{
+	width:35%;
+	border-radius:10px;
+	background-color:plum;
+	margin:100px auto;
+	border:10px YellowGreen ridge;
+	display:inline-block;
+	font-family: 'Caveat';
+	
+}
+.card2 i{
+	padding:10px;
+}
+.card2 h1{
+	padding:5px;
+}
+.card3{
+	width:35%;
+	border-radius:10px;
+	background-color:PaleTurquoise;
+	margin:100px auto;
+	border:10px DarkOliveGreen inset ;
+	display:inline-block;
+	font-family: 'Permanent Marker';
+	
+}
+.card3 i{
+	padding:10px;
+}
+.card3 h1{
+	padding:5px;

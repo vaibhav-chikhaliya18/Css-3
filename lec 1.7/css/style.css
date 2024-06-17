@@ -1,0 +1,207 @@
+*{
+	margin:0;
+	box-sizing:border-box;
+}
+.container{
+	max-width:1140px;
+	margin:0 auto;
+}	
+.mainbox{
+	width:800px;
+	height:535px;
+	background-color:lightgreen;
+	display:inline-block;
+	background-position:center;
+	border-radius:30px;
+	border-color:green;
+	border-style:inset;
+	
+}
+.box{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	padding:10px auto;
+	color:white;
+	border-radius:10px;
+	border-color:red;
+	border-style:inset;
+	
+}
+.box1{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	color:white;	
+	border-radius:10px;
+	border-color:red;
+	border-style:inset;
+}
+
+.mainbox-1{
+	width:800px;
+	height:535px;
+	background-color:IndianRed;
+	display:inline-block;
+	margin:20px auto;
+	border-radius:10px;
+	border-color:black;
+	border-style:solid;
+	background: linear-gradient(63deg, rgba(34,193,195,1) 36%, rgba(227,253,45,1) 62%);
+}
+.box2{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:20px;
+	border-color:OliveDrab;
+	border-style:outset;
+	color:white;
+}
+.box3{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:20px;
+	border-color:OliveDrab;
+	border-style:outset;
+	color:white;
+}
+
+.mainbox-2{
+	width:800px;
+	height:535px;
+	background-color:#EB984E ;
+	display:inline-block;
+	margin:70px auto;
+	border-radius:10px;
+	background-image:url(../img/car.jpg);
+	background-repeat:no-repeat;
+	
+}
+.box4{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:white;
+	border-style:groove;
+}
+.box5{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:white;
+	border-style:groove;
+}
+
+.mainbox-3{
+	width:800px;
+	height:535px;
+	background-color:Sienna;
+	display:inline-block;
+	margin:70px auto;
+	border-radius:10px;
+	background-image:url(../img/krish.jpg);
+	background-repeat:no-repeat;
+	
+}
+.box6{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:YELLOW;
+	border-style:DOUBLE;
+}
+.box7{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:YELLOW;
+	border-style:DOUBLE;
+}
+
+.mainbox-4{
+	width:800px;
+	height:535px;
+	background-color:MistyRose;
+	display:inline-block;
+	margin:70px auto;
+	border-radius:10px;
+	background-image:url(../img/bird.jpg);
+	background-repeat:no-repeat;
+	background-blend-mode:darken;
+	border-color:black;
+	border-style:solid;	
+}
+.box8{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:red;
+	border-style:solid;	
+}
+.box9{
+	width:45%;
+	height:300px;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:red;
+	border-style:solid;	
+}
+
+.mainbox-5{
+	width:800px;
+	height:535px;
+	background-color:#BDEEAC;
+	display:inline-block;
+	margin:70px auto;
+	border-radius:10px;
+	background-image:url(../img/ipl.jpg);
+	background-repeat:no-repeat;
+	background-blend-mode:darken;
+	border-color:red;
+	border-style:solid;	
+}
+.box10{
+	width:45%;
+	height:300px;
+	background-color:rgba(0,0,0,0.1) #81C16C;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:YELLOW;
+	border-style:DOUBLE;
+}
+.box11{
+	width:45%;
+	height:300px;
+	background-color:rgba(0,0,0,0.1) #81C16C;
+	display:inline-block;
+	margin:100px auto;
+	border-radius:10px;
+	color:white;
+	border-color:YELLOW;
+	border-style:DOUBLE;
+}

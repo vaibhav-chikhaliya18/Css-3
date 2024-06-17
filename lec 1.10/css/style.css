@@ -1,0 +1,67 @@
+*{
+	margin:0;
+	box-sizing:boder-box;
+}
+.container{
+	margin:0 auto;
+	max-width:1140px;
+}
+.main-box{
+	width:40%;
+	height:500px;
+	padding:7px;
+	background-color:black;
+	color:white;
+	overflow:hidden;
+	float:left;
+	margin:20px;
+}
+.main-box .box-img{
+	width:100%;
+	overflow:hidden;
+}
+.main-box .box-img img{
+	width:100%;
+	height:300px;
+	transition:0.5s;
+	object-fit:cover;
+}
+.main-box .box-contect p{
+	width:40%;
+}
+.main-box .box-img:first-child:hover img{
+	transform:scale(0.5);
+}
+.main-box:nth-child(2) .box-img:hover img{
+	transform:scale(1.5);
+}
+.main.box:nth-child(3) .box-img:hover img{
+	transform:rotateX(360deg);
+}
+.main-box:nth-child(4) .box-img:hover img{
+	transform:roatateY(-360deg);
+}
+.main-box:nth-child(5) .box-img:hover img{
+	transform:skewX(180deg);
+}
+.main-box:nth-child(6) .box-img:hover img{
+	transform:skewY(-180deg);
+}
+.main-box:nth-child(7) .box-img:hover img{
+	transform:scaleY(0.5);
+}
+.main-box:nth-child(8) .box-img:hover img{
+	transform:scaleX(1.5);
+}
+.main-box:nth-child(9) .box-img:hover img{
+	transform:translate(40%);
+}
+.main-box:nth-child(10) .box-img:hover img{
+	transform:rotateY(360deg);
+}
+.main-box:nth-child(11) .box-img:hover img{
+	transform:scale(1.5);
+}
+.main-box:nth-child(12) .box-img:hover img{
+	transform:translateY(40%);
+}

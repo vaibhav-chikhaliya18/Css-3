@@ -1,0 +1,40 @@
+.box{
+	width:100vw;
+	height:100vh;
+	background-color:lightgreen;
+}
+.box1{
+	width:500px;
+	height:200px;
+	background-color:lightblue;
+	padding:100px;
+	margin:-200px 200px -100px;
+}
+.box2{
+	width:400px;
+	height:400px;
+	background-color:lightpink;
+	padding:100px;
+	margin:-200px 200px 100px;
+}
+.box3{
+	width:100px;
+	height:100px;
+	background-color:green;
+	padding:100px;
+	margin:-400px 200px 100px;
+}
+.box4{
+	width:150px;
+	height:100px;
+	background-color:orange;
+	padding:100px;
+	margin:-200px 200px 100px;
+}
+.vaibhav{
+	width:150px;
+	height:100px;
+	background-color:red;
+	padding:100px;
+	margin:-100px 200px 100px;
+}
